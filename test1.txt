@@ -1,0 +1,1 @@
+test merge with Fast-forward
